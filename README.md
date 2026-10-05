@@ -1,8 +1,8 @@
 # .github
 
-Organization-wide defaults for [GlassBoxStudio](https://github.com/GlassBoxStudio).
+Organization-wide defaults for [Diafyx](https://github.com/Diafyx).
 
-GitHub uses the files in this repository for every GlassBoxStudio repository that doesn't define its own:
+GitHub uses the files in this repository for every Diafyx repository that doesn't define its own:
 
 | File | Purpose |
 |---|---|

@@ -1,5 +1,5 @@
 {
-  "name": "GlassBox CI: Go",
+  "name": "Diafyx CI: Go",
   "description": "Vet, test with the race detector, and build. Reads the Go version from go.mod.",
   "iconName": "octicon workflow",
   "categories": [

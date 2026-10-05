@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to report a bug. Please search existing issues first.
-        **Security vulnerabilities must not be reported here.** See the [security policy](https://github.com/GlassBoxStudio/.github/blob/main/SECURITY.md).
+        **Security vulnerabilities must not be reported here.** See the [security policy](https://github.com/Diafyx/.github/blob/main/SECURITY.md).
 
   - type: textarea
     id: description

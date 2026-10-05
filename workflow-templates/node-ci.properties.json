@@ -1,5 +1,5 @@
 {
-  "name": "GlassBox CI: Node.js",
+  "name": "Diafyx CI: Node.js",
   "description": "Lint, test and build with npm. Reads the Node version from .nvmrc.",
   "iconName": "octicon workflow",
   "categories": [

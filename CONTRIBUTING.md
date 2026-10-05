@@ -1,15 +1,15 @@
 # Contributing
 
-Thanks for your interest in contributing to a GlassBoxStudio project. This guide applies to every repository in the organization unless that repository has its own `CONTRIBUTING.md`.
+Thanks for your interest in contributing to a Diafyx project. This guide applies to every repository in the organization unless that repository has its own `CONTRIBUTING.md`.
 
-GlassBoxStudio is a small, independent studio, so reviews can take a few days. Every issue and pull request is read.
+Diafyx is a small, independent studio, so reviews can take a few days. Every issue and pull request is read.
 
 ## Before you start
 
 - **Bugs:** search the existing issues first. If it hasn't been reported, open one using the bug report form.
 - **Features and larger changes:** open an issue describing the problem and your proposed approach *before* writing code, so the direction can be agreed up front. Pull requests for unagreed features may be closed.
 - **Small fixes** (typos, docs, obvious one-line bugs) can go straight to a pull request.
-- **Security vulnerabilities:** do **not** open a public issue. Follow the [security policy](https://github.com/GlassBoxStudio/.github/blob/main/SECURITY.md).
+- **Security vulnerabilities:** do **not** open a public issue. Follow the [security policy](https://github.com/Diafyx/.github/blob/main/SECURITY.md).
 
 ## Making a change
 
@@ -58,4 +58,4 @@ By contributing, you agree that your contributions are licensed under the licens
 
 ## Code of conduct
 
-Everyone participating in GlassBoxStudio projects is expected to follow the [Code of Conduct](https://github.com/GlassBoxStudio/.github/blob/main/CODE_OF_CONDUCT.md).
+Everyone participating in Diafyx projects is expected to follow the [Code of Conduct](https://github.com/Diafyx/.github/blob/main/CODE_OF_CONDUCT.md).

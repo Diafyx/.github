@@ -1,5 +1,5 @@
 {
-  "name": "GlassBox CI: Rust",
+  "name": "Diafyx CI: Rust",
   "description": "Check formatting, lint with clippy (warnings are errors), and test on stable Rust.",
   "iconName": "octicon workflow",
   "categories": [
