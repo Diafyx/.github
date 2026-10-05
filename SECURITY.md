@@ -11,7 +11,7 @@ Security fixes are made on the `main` branch of each repository and included in 
 Report privately using one of these:
 
 1. **GitHub private vulnerability reporting (preferred).** On the affected repository, open the **Security** tab and click **Report a vulnerability**. See [GitHub's guide](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability).
-2. **Email:** [saik20533@gmail.com](mailto:saik20533@gmail.com)
+2. **Email:** [diafyx@gmail.com](mailto:diafyx@gmail.com)
 
 Please include:
 
