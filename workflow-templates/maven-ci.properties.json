@@ -1,0 +1,12 @@
+{
+  "name": "GlassBox CI: JVM (Maven)",
+  "description": "Build and test with Maven on Temurin JDK 21.",
+  "iconName": "octicon workflow",
+  "categories": [
+    "Java",
+    "Scala"
+  ],
+  "filePatterns": [
+    "^pom\\.xml$"
+  ]
+}
