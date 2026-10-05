@@ -1,0 +1,14 @@
+{
+  "name": "GlassBox CI: JVM (Gradle)",
+  "description": "Validate the Gradle wrapper, then build and test on Temurin JDK 21. Works for Java, Kotlin and Scala Gradle builds.",
+  "iconName": "octicon workflow",
+  "categories": [
+    "Java",
+    "Kotlin",
+    "Scala"
+  ],
+  "filePatterns": [
+    "^build\\.gradle(\\.kts)?$",
+    "^settings\\.gradle(\\.kts)?$"
+  ]
+}

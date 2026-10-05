@@ -1,0 +1,12 @@
+{
+  "name": "GlassBox CI: Node.js",
+  "description": "Lint, test and build with npm. Reads the Node version from .nvmrc.",
+  "iconName": "octicon workflow",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "^package\\.json$"
+  ]
+}
