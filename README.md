@@ -6,7 +6,7 @@ GitHub uses the files in this repository for every Diafyx repository that doesn'
 
 | File | Purpose |
 |---|---|
-| [`profile/README.md`](profile/README.md) | The organization's profile page |
+| [`profile/README.md`](profile/README.md) | The organization's profile page, with light and dark banners in `profile/banner-*.png` |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant 3.0 |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute |
 | [`SECURITY.md`](SECURITY.md) | How to report a vulnerability |
