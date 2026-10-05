@@ -1,4 +1,4 @@
-# GlassBoxStudio
+# Diafyx
 
 Independent studio building tools that make complex systems easier to see, understand, and reason about.
 

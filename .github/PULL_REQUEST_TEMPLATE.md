@@ -10,7 +10,7 @@ Closes #
 
 ## Checklist
 
-- [ ] I have read the [contributing guide](https://github.com/GlassBoxStudio/.github/blob/main/CONTRIBUTING.md).
+- [ ] I have read the [contributing guide](https://github.com/Diafyx/.github/blob/main/CONTRIBUTING.md).
 - [ ] Lint, tests and build pass locally.
 - [ ] I added or updated tests for changed behavior.
 - [ ] I updated documentation where needed.

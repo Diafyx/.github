@@ -28,4 +28,4 @@ Please include:
 
 ## Bug bounty
 
-GlassBoxStudio does not run a bug bounty program. We sincerely appreciate responsible disclosure all the same.
+Diafyx does not run a bug bounty program. We sincerely appreciate responsible disclosure all the same.
