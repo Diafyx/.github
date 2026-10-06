@@ -14,7 +14,7 @@ The name comes from the Greek *dia*, "through", and *phainein*, "to show".
 
 | Project | What it does | Status |
 |---|---|---|
-| **TraceQuest** | Watch real systems run, one source-level step at a time: PostgreSQL MVCC and WAL, Cassandra replication, read repair, Paxos and more, traced from real source code and explained in plain English. | In development · [live demo](https://tracequest-d0m.pages.dev) |
+| **[TraceQuest](https://github.com/Diafyx/tracequest)** | Watch real systems run, one source-level step at a time: PostgreSQL MVCC and WAL, Cassandra replication, read repair, Paxos and more, traced from real source code and explained in plain English. | [v0.1.0](https://github.com/Diafyx/tracequest/releases/tag/v0.1.0) · [live demo](https://tracequest-d0m.pages.dev) |
 
 ## How we build
 
