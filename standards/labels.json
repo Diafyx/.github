@@ -1,0 +1,185 @@
+{
+  "_about": "Canonical Diafyx label set (standard v1.0.0). Rules: core B6. Sync with tools/sync-labels.py.",
+  "groups": {
+    "kind": [
+      {
+        "name": "bug",
+        "color": "d73a4a",
+        "description": "Kind: something behaves incorrectly"
+      },
+      {
+        "name": "enhancement",
+        "color": "a2eeef",
+        "description": "Kind: new user-visible behavior or content"
+      },
+      {
+        "name": "documentation",
+        "color": "0075ca",
+        "description": "Kind: documentation only"
+      },
+      {
+        "name": "maintenance",
+        "color": "c5def5",
+        "description": "Kind: CI, tooling or repository upkeep"
+      },
+      {
+        "name": "testing",
+        "color": "bfd4f2",
+        "description": "Kind: tests only"
+      },
+      {
+        "name": "performance",
+        "color": "f9d0c4",
+        "description": "Kind: speed or resource use"
+      },
+      {
+        "name": "security",
+        "color": "8b0000",
+        "description": "Kind: public hardening only; report vulnerabilities privately"
+      },
+      {
+        "name": "dependencies",
+        "color": "0366d6",
+        "description": "Kind: dependency update"
+      }
+    ],
+    "area": [
+      {
+        "name": "area: core",
+        "color": "bfdadc",
+        "description": "Area: main package or application code"
+      },
+      {
+        "name": "area: ci",
+        "color": "bfdadc",
+        "description": "Area: workflows and automation"
+      },
+      {
+        "name": "area: docs",
+        "color": "bfdadc",
+        "description": "Area: README, guides and design records"
+      }
+    ],
+    "size": [
+      {
+        "name": "size: XS",
+        "color": "c2f0c2",
+        "description": "Size: 0-9 changed lines"
+      },
+      {
+        "name": "size: S",
+        "color": "9be09b",
+        "description": "Size: 10-49 changed lines"
+      },
+      {
+        "name": "size: M",
+        "color": "fbca04",
+        "description": "Size: 50-249 changed lines"
+      },
+      {
+        "name": "size: L",
+        "color": "f9a03f",
+        "description": "Size: 250-499 changed lines"
+      },
+      {
+        "name": "size: XL",
+        "color": "eb6420",
+        "description": "Size: 500-999 changed lines; justify or split"
+      },
+      {
+        "name": "size: XXL",
+        "color": "b60205",
+        "description": "Size: 1000+ changed lines; split unless mechanical"
+      }
+    ],
+    "state": [
+      {
+        "name": "needs-triage",
+        "color": "ededed",
+        "description": "State: not yet reviewed by a maintainer"
+      },
+      {
+        "name": "needs-decision",
+        "color": "d876e3",
+        "description": "State: waiting on a design decision"
+      },
+      {
+        "name": "blocked",
+        "color": "e11d21",
+        "description": "State: waiting on another issue or outside change"
+      },
+      {
+        "name": "ready",
+        "color": "0e8a16",
+        "description": "State: agreed and ready to implement"
+      }
+    ],
+    "release-notes": [
+      {
+        "name": "breaking-change",
+        "color": "d93f0b",
+        "description": "Release notes: breaks existing users; needs migration notes"
+      },
+      {
+        "name": "skip-release-notes",
+        "color": "eeeeee",
+        "description": "Release notes: internal change, leave out of notes"
+      }
+    ],
+    "other": [
+      {
+        "name": "release",
+        "color": "1d76db",
+        "description": "Tracks one version through publication and verification"
+      },
+      {
+        "name": "good first issue",
+        "color": "7057ff",
+        "description": "Small, well-defined, good for a new contributor"
+      },
+      {
+        "name": "help wanted",
+        "color": "008672",
+        "description": "The maintainer would welcome a contribution"
+      },
+      {
+        "name": "duplicate",
+        "color": "cfd3d7",
+        "description": "Already tracked elsewhere"
+      },
+      {
+        "name": "invalid",
+        "color": "e4e669",
+        "description": "Not a valid report or request"
+      },
+      {
+        "name": "wontfix",
+        "color": "ffffff",
+        "description": "Will not be worked on"
+      }
+    ]
+  },
+  "profile_areas": {
+    "python-pypi": [
+      {
+        "name": "area: packaging",
+        "color": "bfdadc",
+        "description": "Area: build, metadata and publishing"
+      }
+    ],
+    "content-site": [
+      {
+        "name": "area: content",
+        "color": "bfdadc",
+        "description": "Area: published articles and pages"
+      }
+    ],
+    "web-app": [
+      {
+        "name": "area: ui",
+        "color": "bfdadc",
+        "description": "Area: screens, components and interaction"
+      }
+    ]
+  }
+}
